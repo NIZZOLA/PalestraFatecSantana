@@ -45,6 +45,10 @@ Este projeto é licenciado sob a licença MIT.
 
 Este projeto foi criado por Márcio Nizzola.
 
+# Apresentação 
+
+[Apresentação da palestra](docs/Nizzola-mvp-documentAi.pdf)
+
 # Fotos do evento
 
 ![Foto da palestra](docs/foto2.jfif)
